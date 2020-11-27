@@ -5,7 +5,7 @@ Draw2D is a modern HTML 5 JavaScript library for visualization and interaction w
 diagrams and graphs. Draw2D touch makes it easy to create visual languages & tools of various 
 kinds.
 
-The new source code home of my http://www.draw2d.org project. New *home* because I switch the license to MIT.
+The new source code home of my http://www.draw2d.org project. New *home* because I switched the license to MIT.
 
 
 ## Documentation
