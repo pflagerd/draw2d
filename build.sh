@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # generate the jsDoc
-cd ./jsdoc/
+cd ./jsdoc/ || exit 1
 yarn install
 ./node_modules/jsdoc/jsdoc.js -c ./jsdoc.conf
 
