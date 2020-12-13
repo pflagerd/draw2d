@@ -10,7 +10,7 @@ diagrams and graphs.
 https://freegroup.github.io/draw2d/index.html
 
 ## Local Development
-``` 
+``` bash
 npm install
 npm install -g yarn     # -g lets you run yarn from the shell. e.g. yarn install
 DIR=/examples yarn dev
@@ -18,7 +18,7 @@ DIR=/examples yarn dev
 ```
 
 ## build
-``` 
+``` bash
 ./build.sh
 ```
 
