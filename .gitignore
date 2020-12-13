@@ -33,3 +33,6 @@ node_modules
 .DS_Store
 out
 /package-lock.json
+/dist/
+/docs/js/
+/yarn.lock
