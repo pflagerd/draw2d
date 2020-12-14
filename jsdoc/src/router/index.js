@@ -2409,7 +2409,7 @@ const routes = [
         component: () => import(/* webpackChunkName: "example_section11" */ '../views/example_section.vue')
       },
       {
-        path: '/examples/galerie_shape_basic',
+        path: '/examples/shape.basic',
         props: { section: 0, example: 0 },
         component: () => import(/* webpackChunkName: "example_galerie_shape_basic" */ '../views/example.vue')
       },
@@ -2946,14 +2946,14 @@ const examples = [
     'text': 'Basic Figures',
     'children': [
       {
-        'name': 'galerie_shape_basic',
+        'name': 'shape.basic',
         'text': 'draw2d.shape.basic.*',
         'description': 'Figures in the draw2d.shape.basic.* package',
         'url': 'galerie_shape_basic/index.html',
-        'icon': 'galerie_shape_basic/icon.png',
+        'icon': 'shape.basic/icon.png',
         'status': 'normal',
         'data': {
-          'path': '/examples/galerie_shape_basic'
+          'path': '/examples/shape.basic'
         }
       },
       {
